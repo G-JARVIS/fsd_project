@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "currentStage": "Technical Round",
+        "nextStep": "System Design Interview",
+        "appliedDate": "Mar 10, 2024",
+        "details": "Awaiting response for scheduling System Design Interview."
+    },
+    {
+        "id": 5,
+        "currentStage": "HR Round",
+        "nextStep": "Final Interview",
+        "appliedDate": "Mar 12, 2024",
+        "details": "HR interview successfully completed. Next round will be scheduled soon."
+    },
+    {
+        "id": 4,
+        "currentStage": "Final Round",
+        "nextStep": "Rejected",
+        "appliedDate": "Feb 28, 2024",
+        "details": "Application was unsuccessful after the final interview stage."
+    }
+]

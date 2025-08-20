@@ -1,0 +1,154 @@
+[
+  {
+    "id": 1,
+    "title": "JavaScript Fundamentals",
+    "difficulty": "Easy",
+    "category": "JavaScript",
+    "questions": [
+      {
+        "text": "What does the `typeof` operator return for `null` in JavaScript?",
+        "options": ["null", "object", "undefined", "string"],
+        "correctIndex": 1
+      },
+      {
+        "text": "Which keyword is used to define a variable that cannot be reassigned?",
+        "options": ["var", "let", "const", "static"],
+        "correctIndex": 2
+      },
+      {
+        "text": "Which method is used to add an element to the end of an array?",
+        "options": ["push()", "pop()", "shift()", "unshift()"],
+        "correctIndex": 0
+      },
+      {
+        "text": "What is hoisting in JavaScript?",
+        "options": [
+          "Moving code to the top of the file",
+          "Variable declarations being moved to the top of their scope",
+          "A type of animation",
+          "A JavaScript runtime error"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "text": "What is the result of '5' + 2 in JavaScript?",
+        "options": ["7", "52", "NaN", "Error"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "React Concepts",
+    "difficulty": "Medium",
+    "category": "React",
+    "questions": [
+      {
+        "text": "What hook is primarily used for managing side effects in functional components?",
+        "options": ["useState", "useContext", "useEffect", "useReducer"],
+        "correctIndex": 2
+      },
+      {
+        "text": "What is JSX?",
+        "options": [
+          "A server-side rendering library",
+          "A JavaScript syntax extension that allows HTML in JS",
+          "A state management pattern",
+          "A custom event handler"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "text": "How do you pass data from a parent component to a child component?",
+        "options": ["Using context", "Using props", "Using state hooks", "Using reducers"],
+        "correctIndex": 1
+      },
+      {
+        "text": "What is the virtual DOM?",
+        "options": [
+          "A browser feature for rendering HTML",
+          "A lightweight copy of the actual DOM in memory",
+          "A deprecated React feature",
+          "A type of component"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "text": "Which method is called after a component is rendered for the first time?",
+        "options": ["componentDidUpdate", "componentWillMount", "componentDidMount", "render"],
+        "correctIndex": 2
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Python Fundamentals",
+    "difficulty": "Easy",
+    "category": "Python",
+    "questions": [
+      {
+        "text": "Which of these data types is immutable in Python?",
+        "options": ["list", "dictionary", "set", "tuple"],
+        "correctIndex": 3
+      },
+      {
+        "text": "How do you define a function in Python?",
+        "options": ["func my_func():", "function my_func():", "def my_func():", "define my_func():"],
+        "correctIndex": 2
+      },
+      {
+        "text": "What is the correct way to output the text 'Hello World' in Python?",
+        "options": ["echo 'Hello World'", "p.print('Hello World')", "print('Hello World')", "System.out.println('Hello World')"],
+        "correctIndex": 2
+      },
+      {
+        "text": "What does the expression `3 * 2 ** 3` evaluate to?",
+        "options": ["24", "72", "30", "27"],
+        "correctIndex": 0
+      },
+      {
+        "text": "Which module is used to work with random numbers?",
+        "options": ["math", "sys", "random", "os"],
+        "correctIndex": 2
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Advanced Data Structures",
+    "difficulty": "Hard",
+    "category": "DSA",
+    "questions": [
+      {
+        "text": "What is the worst-case time complexity of searching for an element in a Hash Table?",
+        "options": ["O(1)", "O(log n)", "O(n)", "O(n^2)"],
+        "correctIndex": 2
+      },
+      {
+        "text": "Which property defines a Binary Search Tree (BST)?",
+        "options": [
+          "Each node has at most two children.",
+          "The left child is smaller, and the right child is greater.",
+          "It is always a complete tree.",
+          "It is stored in a linear array."
+        ],
+        "correctIndex": 1
+      },
+      {
+        "text": "What is the minimum number of nodes in an AVL tree of height 3?",
+        "options": ["3", "5", "7", "12"],
+        "correctIndex": 4
+      },
+      {
+        "text": "Which data structure is suitable for implementing BFS (Breadth-First Search)?",
+        "options": ["Stack", "Queue", "Max Heap", "Linked List"],
+        "correctIndex": 1
+      },
+      {
+        "text": "In a max heap, where is the largest element located?",
+        "options": ["At the root node", "At the leftmost leaf node", "At the rightmost leaf node", "Anywhere in the last level"],
+        "correctIndex": 0
+      }
+    ]
+  }
+]

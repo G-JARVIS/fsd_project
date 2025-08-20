@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "responsibilities": [
+      "Develop and maintain highly responsive user interface components using React.",
+      "Collaborate with UX/UI designers to translate wireframes into visual elements.",
+      "Optimize application for maximum speed and scalability.",
+      "Implement client-side architecture and state management (e.g., Redux, Zustand)."
+    ],
+    "qualifications": [
+      "B.Tech/M.Tech in Computer Science or related field.",
+      "Proficiency in JavaScript (ES6+), HTML5, and CSS3.",
+      "2+ years of experience with React.js and its core principles.",
+      "Familiarity with RESTful APIs and modern build pipelines (e.g., Webpack, Vite)."
+    ],
+    "companyCulture": "Fast-paced, innovative environment with a strong focus on mentorship and growth."
+  },
+  {
+    "id": 2,
+    "responsibilities": [
+      "Design and implement scalable backend services using Node.js and Express.",
+      "Manage and optimize MongoDB databases.",
+      "Integrate front-end components with server-side logic.",
+      "Develop and maintain documentation for APIs and services."
+    ],
+    "qualifications": [
+      "Solid understanding of the MERN stack.",
+      "Experience with cloud services (AWS or Azure) is a plus.",
+      "Ability to handle both front-end and back-end development tasks.",
+      "Strong debugging and problem-solving skills."
+    ],
+    "companyCulture": "Agile, remote-friendly team that values ownership and continuous learning."
+  }
+]
